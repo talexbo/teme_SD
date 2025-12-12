@@ -2,3 +2,9 @@
 //verifice dacă şirul este corect. Pentru rezolvare folosiţi o stivă de catactere
 //implementare proprie sau std::stack. Exemplu: şirul [()()] este corect, şirul
 //([]) nu este corect, şirul ()]( nu este corect.
+//
+#include <iostream>
+
+int main() {
+	return 0;
+}
